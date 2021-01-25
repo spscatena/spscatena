@@ -6,7 +6,14 @@
 
 #### 🥳 In my free time, I enjoy reading, cooking, learning to code, and a newfound love (thank you 2020) of baking. If you would like to learn more about me, please feel free to contact me at any time. I look forward to hearing from you!
 
-www.sabrinascatena.com 
+#### 🌎 www.sabrinascatena.com 
+#### 📪 sabrina.scatena@gmail.com
+#### ⛓ [LinkedIn](https://www.linkedin.com/in/sabrinascatena/)
+#### 📄 [Resume](https://drive.google.com/file/d/0Bzn3cmIZGwb4VE45YUhEUUdXUkE/view)
+
+
+
+
 
 ![meme](https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif)
 
