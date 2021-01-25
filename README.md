@@ -1,8 +1,3 @@
-
-
-![meme](https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif)
-
-
 ### Welcome to my GitHub page!
 
 😊 My name is Sabrina. After working in content management and publishing production for 15 years, I decided to leave my job as Director of Publishing Production at WebMD to pursue my longtime desire to learn software development. I enrolled in General Assembly's Software Engineering Immersive program where I gained a solid foundation in web development and computer science fundamentals. My projects include the use of Javascript, React, HTML, CSS, Express and Ruby.
@@ -12,6 +7,9 @@
 🥳 In my free time, I enjoy reading, cooking, learning to code, and a newfound love (thank you 2020) of baking. If you would like to learn more about me, please feel free to contact me at any time. I look forward to hearing from you!
 
 www.sabrinascatena.com 
+
+![meme](https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif)
+
 
 <!--
 **spscatena/spscatena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
