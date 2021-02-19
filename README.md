@@ -9,7 +9,7 @@
 #### 🌎 www.sabrinascatena.com 
 #### 📪 sabrina.scatena@gmail.com
 #### ⛓ [LinkedIn](https://www.linkedin.com/in/sabrinascatena/)
-#### 📄 [Resume](https://drive.google.com/file/d/0Bzn3cmIZGwb4VE45YUhEUUdXUkE/view)
+#### 📄 [Resume](https://drive.google.com/file/d/1vPwkASxR3U4_nuhHglOpZeHTd83nrFmq/view)
 
 
 
