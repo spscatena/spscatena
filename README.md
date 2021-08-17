@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page!
 
-#### 😊 My name is Sabrina. After working in content management and publishing production for 15 years, I decided to leave my job as Director of Publishing Production at WebMD to pursue my longtime desire to learn software development. My stack include the use of Javascript, React, HTML, CSS, Express and Ruby.
+#### 😊 My name is Sabrina.
 
 #### 🤓 I'm looking for Frontend or Fullstack development opportunities where I can learn and grow my skills but also contribute in areas related to my background. 
 
