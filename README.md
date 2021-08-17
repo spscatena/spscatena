@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page!
 
-#### 😊 My name is Sabrina.
+#### 😊 Hi, my name is Sabrina.
 
 #### 🤓 I'm looking for Frontend or Fullstack development opportunities where I can learn and grow my skills but also contribute in areas related to my background. 
 
