@@ -1,10 +1,10 @@
-### Welcome to my GitHub page!
+### Welcome to my GitHub page.
 
 #### 😊 Hi, my name is Sabrina.
 
-#### 🤓 I'm looking for Frontend or Fullstack development opportunities where I can learn and grow my skills but also contribute in areas related to my background. 
+#### 🤓 Looking to always be learning anything related to software development. 
 
-#### 🥳 In my free time, I enjoy reading, cooking, learning to code, and a newfound love (thank you 2020) of baking. If you would like to learn more about me, please feel free to contact me at any time. I look forward to hearing from you!
+#### 🥳 In my free time, I enjoy reading, cooking and baking. If you would like to learn more about me, please feel free to contact me at any time. I look forward to hearing from you!
 
 #### 🌎 www.sabrinascatena.com 
 #### 📪 sabrina.scatena@gmail.com
@@ -15,8 +15,8 @@
 
 
 
-![meme](https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif)
-
+<!-- ![meme](https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif)
+ -->
 
 <!--
 **spscatena/spscatena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
